@@ -132,7 +132,7 @@ namespace ElJuegoDelaVida
         
                 
         }
-        
+        //
 
         private void btnRandom_Click(object sender, EventArgs e)
         {
